@@ -41,19 +41,3 @@ The architecture incorporates altitude-aware electrical insulation design with a
 
 At temperatures below −20°C, the system enters an autonomous pre-heating state before enabling normal inverter operation. A 25W PTC heater combined with controlled GaN switching provides approximately 38W of heating power, targeting a transition from −40°C to −10°C in approximately 11.58 minutes.
 
-## Repository Scope
-
-This repository can contain:
-
-* Hierarchical schematic design
-* Component and BOM documentation
-* PCB layout and high-voltage isolation rules
-* C2000 firmware
-* ESP32-S3 firmware
-* Inter-MCU communication protocol
-* Sensor interfaces
-* Protection and fault-management logic
-* Simulation and verification results
-* Manufacturing and design documentation
-
-**Project Type:** Power Electronics / Renewable Energy / Embedded Systems / VLSI-Adjacent Hardware Design / PCB Design
