@@ -4,6 +4,14 @@ A high-altitude, extreme-environment **500W solar micro-inverter architecture** 
 
 The system is designed around a **28–50V DC PV input**, **400V DC-link**, and **230V AC / 50Hz grid output**, with a target peak efficiency of **97.2%**.
 
+
+
+<img width="1722" height="884" alt="HAR_SMI_500" src="https://github.com/user-attachments/assets/44850da4-2113-4de3-8a5a-e5e24ab0305c" />
+
+
+
+
+
 ## Key Features
 
 * **500W continuous power conversion**
