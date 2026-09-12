@@ -49,3 +49,4 @@ The architecture incorporates altitude-aware electrical insulation design with a
 
 At temperatures below −20°C, the system enters an autonomous pre-heating state before enabling normal inverter operation. A 25W PTC heater combined with controlled GaN switching provides approximately 38W of heating power, targeting a transition from −40°C to −10°C in approximately 11.58 minutes.
 
+<img width="508" height="358" alt="Screenshot 2026-09-11 231627" src="https://github.com/user-attachments/assets/a83dfd78-7d30-4be0-ab6c-62ab6b3b897a" />
