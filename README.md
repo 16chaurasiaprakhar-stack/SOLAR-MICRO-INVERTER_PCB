@@ -45,8 +45,16 @@ The C2000 controller provides the deterministic power-conversion control loop, i
 
 The architecture incorporates altitude-aware electrical insulation design with an enforced **≥4.5 mm clearance** and **≥6.0 mm creepage**, along with milled isolation slots, conformal coating, selective potting, and minimized high-dv/dt power loops.
 
-## Cold-Start System
+## Cold-Start System  
+<img width="167" height="93" alt="image" src="https://github.com/user-attachments/assets/96818116-a71e-45f6-b814-b18106098b81" />  
 
-At temperatures below −20°C, the system enters an autonomous pre-heating state before enabling normal inverter operation. A 25W PTC heater combined with controlled GaN switching provides approximately 38W of heating power, targeting a transition from −40°C to −10°C in approximately 11.58 minutes.
+
+At temperatures below −20°C, the system enters an autonomous pre-heating state before enabling normal inverter operation. A 25W PTC heater combined with controlled GaN switching provides approximately 38W of heating power, targeting a transition from −40°C to −10°C in approximately 11.58 minutes.  
+
+
+
+
+
+
 
 <img width="508" height="358" alt="Screenshot 2026-09-11 231627" src="https://github.com/user-attachments/assets/a83dfd78-7d30-4be0-ab6c-62ab6b3b897a" />
